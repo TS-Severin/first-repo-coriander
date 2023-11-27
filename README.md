@@ -22,3 +22,6 @@ Today we are learning Markdwon for writing readme-files in github. Computer setu
 
 ### Images
 ![Markdown Logo](https://www.fullstackpython.com/img/logos/markdown.png)
+
+### Local Images
+![portrait](./portrait_spiced.jpg)
