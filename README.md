@@ -30,4 +30,8 @@ Today we are learning Markdwon for writing readme-files in github. Computer setu
 
 ### Code Line
 
-we can add one 'line' of code 'name=Tillmann'
+we can add one `line` of code `name=Tillmann`
+
+### Block code
+
+
