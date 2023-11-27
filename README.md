@@ -19,3 +19,6 @@ Today we are learning Markdwon for writing readme-files in github. Computer setu
 ### Link a page
 [Markdown Guide](https://www.markdownguide.org/basic-syntax/#links)
 [Spiced Academy](https://www.spiced-academy.com/en)
+
+### Images
+![Markdown Logo](https://www.fullstackpython.com/img/logos/markdown.png)
