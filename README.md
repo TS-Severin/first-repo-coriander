@@ -15,3 +15,7 @@ Today we are learning Markdwon for writing readme-files in github. Computer setu
 - First Item
 - Second Item
 - Third Item
+
+### Link a page
+[Markdown Guide](https://www.markdownguide.org/basic-syntax/#links)
+[Spiced Academy](https://www.spiced-academy.com/en)
